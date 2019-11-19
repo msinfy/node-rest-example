@@ -1,4 +1,4 @@
-'
+
 
 # Node.js
 # Build a general Node.js project with npm.
@@ -20,5 +20,4 @@ steps:
 - script: |
     npm install
     npm run build
-    
-  displayName: 'npm install and build'
+    displayName: 'npm install and build'
